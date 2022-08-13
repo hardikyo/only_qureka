@@ -1,8 +1,8 @@
 {
 
-  "qureka_all" : "0",
+  "all" : "0",
   
-  "qureka_not_all" : "0",
+  "not_all" : "0",
   
   "qureka_link" : "http://795.win.qureka.com",
 
@@ -10,8 +10,8 @@
 
   "qureka_in_app_messaging_service" : "0",
 
-  "qureka_native" : "1",
+  "native" : "1",
   
-  "qureka_banner" : "0"
+  "banner" : "0"
 
 }
