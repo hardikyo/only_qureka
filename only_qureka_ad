@@ -18,6 +18,8 @@
 
   "native_ad" : "3",
   
-  "banner" : "0"
+  "banner" : "1",
+  
+  "banner_2" : "3"
 
 }
