@@ -5,10 +5,10 @@
   "not_all" : "0",
   
   "qureka_link" : "http://795.win.qureka.com",
+  
+  "in_app_messaging_service" : "0",
 
-  "qureka_in_app_messaging_service_2" : "0",
-
-  "qureka_in_app_messaging_service" : "0",
+  "in_app_messaging_service_2" : "0",
 
   "native" : "1",
   
